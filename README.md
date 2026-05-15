@@ -61,9 +61,9 @@ const hugo = {
 
 <div align="center">
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&rank_icon=github)
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoFucksmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFucksmann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6)
 
 </div>
 
@@ -73,8 +73,8 @@ const hugo = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/TU_USUARIO/TU_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/TU_USUARIO/TU_REPO_2)
+[![backendTablero](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=backendTablero&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/backendTablero)
+[![tableroAnalisis](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=tableroAnalisis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/tableroAnalisis)
 
 </div>
 
@@ -93,7 +93,7 @@ const hugo = {
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=61DAFB)
+![Profile views](https://komarev.com/ghpvc/?username=HugoFucksmann&style=flat-square&color=61DAFB)
 
 *`// Always coding, always learning.`*
 
