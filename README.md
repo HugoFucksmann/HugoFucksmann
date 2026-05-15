@@ -61,16 +61,14 @@ const hugo = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugofucksmann)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](hugoffuksmann@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=HugoFucksmann&style=flat-square&color=61DAFB)
 
 *`// Always coding, always learning.`*
 
