@@ -9,8 +9,6 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
-### FullStack Developer · Node.js · React · Santa Fe, Argentina 🇦🇷
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Node.js+%2B+React+enthusiast;Chess+player+%E2%99%9F+%7C+Linux+lover;Always+coding%2C+always+learning.)](https://git.io/typing-svg)
 
 </div>
