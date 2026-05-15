@@ -24,7 +24,7 @@ const hugo = {
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
   stack:    ["Node.js", "React", "TypeScript"],
-  hobbies: ["♟️ Chess", "coding", "more coding"],
+  hobbies:  ["♟️ Chess", "coding", "more coding"],
   motto:    "Always coding, always learning.",
 };
 ```
