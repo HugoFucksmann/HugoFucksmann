@@ -57,29 +57,6 @@ const hugo = {
 
 ---
 
-## 〉 GitHub Stats
-
-<div align="center">
-
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoFucksmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFucksmann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6)
-
-</div>
-
----
-
-## 〉 Proyectos destacados
-
-<div align="center">
-
-[![backendTablero](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=backendTablero&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/backendTablero)
-[![tableroAnalisis](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=tableroAnalisis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/tableroAnalisis)
-
-</div>
-
----
-
 ## 〉 Contacto
 
 <div align="center">
