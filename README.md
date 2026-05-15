@@ -1,8 +1,15 @@
 <div align="center">
 
-<h1>E &nbsp;&nbsp; l &nbsp;&nbsp; C &nbsp;&nbsp; o &nbsp;&nbsp; l &nbsp;&nbsp; o &nbsp;&nbsp; f</h1>
+```
+██╗  ██╗██╗   ██╗ ██████╗  ██████╗
+██║  ██║██║   ██║██╔════╝ ██╔═══██╗
+███████║██║   ██║██║  ███╗██║   ██║
+██╔══██║██║   ██║██║   ██║██║   ██║
+██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝
+```
 
-**`FullStack Developer · Node.js · React · Santa Fe, Argentina 🇦🇷`**
+### FullStack Developer · Node.js · React · Santa Fe, Argentina 🇦🇷
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Node.js+%2B+React+enthusiast;Chess+player+%E2%99%9F+%7C+Linux+lover;Always+coding%2C+always+learning.)](https://git.io/typing-svg)
 
@@ -13,20 +20,14 @@
 ## 〉 Sobre mí
 
 ```js
-
-
-  const hugo = {
-
-    role:     "FullStack Developer",
-    location: "Santa Fe, Argentina 🇦🇷",
-    stack:    ["Node.js", "React", "TypeScript"],
-    tools:    ["Docker", "Linux", "Git"],
-    hobbies:  ["♟️ Chess", "Open Source", "Tech & Coffee"],
-    motto:    "Always coding, always learning.",
-
-  };
-
-
+const hugo = {
+  role:     "FullStack Developer",
+  location: "Santa Fe, Argentina 🇦🇷",
+  stack:    ["Node.js", "React", "TypeScript"],
+  tools:    ["Docker", "Linux", "Git"],
+  hobbies:  ["♟️ Chess", "Open Source", "Tech & Coffee"],
+  motto:    "Always coding, always learning.",
+};
 ```
 
 ---
@@ -61,7 +62,7 @@
 <div align="center">
 
 ![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoFucksmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&rank_icon=github)
-&nbsp;
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFucksmann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6)
 
 </div>
@@ -72,10 +73,8 @@
 
 <div align="center">
 
-| 🗂 Proyecto | 📝 Descripción | 🛠 Stack |
-|:---|:---|:---|
-| [**backendTablero**](https://github.com/HugoFucksmann/backendTablero) | Backend de tablero de análisis | Node.js · Express |
-| [**tableroAnalisis**](https://github.com/HugoFucksmann/tableroAnalisis) | Tablero de análisis interactivo | React · TypeScript |
+[![backendTablero](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=backendTablero&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/backendTablero)
+[![tableroAnalisis](https://github-readme-stats.vercel.app/api/pin/?username=HugoFucksmann&repo=tableroAnalisis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)](https://github.com/HugoFucksmann/tableroAnalisis)
 
 </div>
 
@@ -87,7 +86,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoFucksmann)
 
 </div>
 
