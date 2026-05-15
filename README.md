@@ -22,10 +22,9 @@
 ```js
 const hugo = {
   role:     "FullStack Developer",
-  location: "Santa Fe, Argentina 🇦🇷",
+  location: "Santa Fe, Argentina",
   stack:    ["Node.js", "React", "TypeScript"],
-  tools:    ["Docker", "Linux", "Git"],
-  hobbies:  ["♟️ Chess", "Open Source", "Tech & Coffee"],
+  hobbies: ["♟️ Chess", "coding", "more coding"],
   motto:    "Always coding, always learning.",
 };
 ```
