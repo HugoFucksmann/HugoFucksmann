@@ -58,19 +58,29 @@ const elColof = {
 
 ---
 
-## 〉 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/HugoFucksmann/tableroAnalisis">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=HugoFucksmann&repo=tableroAnalisis&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="tableroAnalisis" />
-</a>
-<a href="https://github.com/HugoFucksmann/backendTablero">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=HugoFucksmann&repo=backendTablero&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="backendTablero" />
-</a>
-
-</div>
-
+〉 Proyectos Destacados
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 <a href="https://github.com/HugoFucksmann/tableroAnalisis">tableroAnalisis</a></h3>
+<p>Aplicación interactiva diseñada para la visualización de datos, generación de reportes y análisis de métricas en tiempo real.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚙️ <a href="https://github.com/HugoFucksmann/backendTablero">backendTablero</a></h3>
+<p>API REST robusta que gestiona la persistencia de datos, procesamiento de consultas complejas y la seguridad del tablero de análisis.</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+</td>
+</tr>
+</table>
 ---
 
 ## 〉 GitHub Stats
