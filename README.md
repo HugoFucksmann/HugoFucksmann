@@ -18,7 +18,7 @@
 ## 〉 Sobre mí
 
 ```js
-const elColof = {
+const ElColof = {
   name:     "Hugo",
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
@@ -54,12 +54,12 @@ DevOps & Herramientas
 </p>
 〉 Proyectos Destacados
 <div align="center">
-<!-- Reemplaza "PROYECTO-1" y "PROYECTO-2" con el nombre real de tus repositorios -->
-<a href="https://github.com/hugofucksmann/PROYECTO-1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugofucksmann&repo=PROYECTO-1&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" />
+
+<a href="https://github.com/hugofucksmann/tableroAnalisis">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugofucksmann&repo=tableroAnalisis&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" />
 </a>
-<a href="https://github.com/hugofucksmann/PROYECTO-2">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugofucksmann&repo=PROYECTO-2&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" />
+<a href="https://github.com/hugofucksmann/backendTablero">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugofucksmann&repo=backendTablero&theme=react&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" />
 </a>
 </div>
 〉 GitHub Stats
