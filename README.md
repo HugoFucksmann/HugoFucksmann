@@ -1,12 +1,12 @@
 <div align="center">
 
-```
-██╗  ██╗██╗   ██╗ ██████╗  ██████╗
-██║  ██║██║   ██║██╔════╝ ██╔═══██╗
-███████║██║   ██║██║  ███╗██║   ██║
-██╔══██║██║   ██║██║   ██║██║   ██║
-██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝
+```text
+███████╗██╗      ██████╗  ██████╗ ██╗      ██████╗ ███████╗
+██╔════╝██║     ██╔════╝ ██╔═══██╗██║     ██╔═══██╗██╔════╝
+█████╗  ██║     ██║      ██║   ██║██║     ██║   ██║█████╗  
+██╔══╝  ██║     ██║      ██║   ██║██║     ██║   ██║██╔══╝  
+███████╗███████╗╚██████╗ ╚██████╔╝███████╗╚██████╔╝██║     
+╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Node.js+%2B+React+enthusiast;Chess+player+%E2%99%9F+%7C+Linux+lover;Always+coding%2C+always+learning.)](https://git.io/typing-svg)
@@ -18,7 +18,8 @@
 ## 〉 Sobre mí
 
 ```js
-const hugo = {
+const elColof = {
+  name:     "Hugo",
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
   stack:    ["Node.js", "React", "TypeScript"],
@@ -54,11 +55,20 @@ const hugo = {
 
 ---
 
+## 〉 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugofucksmann&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugofucksmann&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
+
+---
+
 ## 〉 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugofucksmann)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](hugoffuksmann@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoffuksmann@gmail.com)
 
 </div>
