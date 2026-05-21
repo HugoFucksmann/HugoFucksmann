@@ -23,7 +23,7 @@ const ElColof = {
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
   stack:    ["React", "Node.js", "TypeScript", "JavaScript"],
-  hobbies:  ["♟️ Chess", "🐧 Linux", "coding"],
+  hobbies:  ["♟️ Chess", "coding"],
   motto:    "Always coding, always learning."
 };
 ```
