@@ -18,7 +18,7 @@
 ## 〉 Sobre mí
 
 ```js
-const elColof = {
+const ElColof = {
   name:     "Hugo",
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
@@ -81,20 +81,6 @@ const elColof = {
 </td>
 </tr>
 </table>
----
-
-## 〉 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/HugoFucksmann">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoFucksmann&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/HugoFucksmann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoFucksmann&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</a>
-
-</div>
 
 ---
 
