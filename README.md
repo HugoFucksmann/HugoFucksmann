@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 ```text
@@ -15,50 +16,70 @@
 
 ---
 
-## 〉 Sobre mí
+<!-- Inicio del Dashboard de dos columnas -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
+
+### 〉 Sobre mí
 
 ```js
 const ElColof = {
   name:     "Hugo",
   role:     "FullStack Developer",
   location: "Santa Fe, Argentina",
-  stack:    ["Node.js", "React", "TypeScript"],
-  hobbies:  ["♟️ Chess", "coding", "more coding"],
-  motto:    "Always coding, always learning.",
+  motto:    "Always coding, always learning."
 };
 ```
 
+<details>
+<summary><b>🖥️ Mi Entorno de Desarrollo (Setup)</b></summary>
+<br />
+
+*   **S.O.:** Linux Lover 🐧 (Debian/Arch)
+*   **Terminal:** Alacritty + Zsh (Zinit)
+*   **Editor:** VS Code con atajos de Vim / Neovim
+</details>
+
+<details>
+<summary><b>♟️ Ajedrez & Filosofía de Código</b></summary>
+<br />
+
+*   **Estilo:** Posicional y estratégico, aplicable también a la arquitectura de software.
+*   **Apertura favorita:** Apertura Española o Defensa Siciliana (variante Najdorf).
+*   **Pensamiento:** *"El ajedrez, como el código, se trata de anticipar los siguientes movimientos del sistema".*
+</details>
+
+</td>
+<td width="45%" valign="top">
+
+### 〉 Tech Stack & Tools
+
+Tecnologías con las que trabajo habitualmente:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,py,docker,linux,git,github,postgres,css" alt="My Skills" />
+  </a>
+</p>
+
+```text
+// Enfoque Principal:
+- Desarrollo Frontend React / TS
+- APIs escalables con Node/Express
+- Contenerización con Docker
+```
+
+</td>
+</tr>
+</table>
+
+<!-- Fin del Dashboard -->
+
 ---
 
-## 〉 Tech Stack
+## 〉 Proyectos Destacados
 
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-</p>
-
-**Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
-**DevOps & Herramientas**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-〉 Proyectos Destacados
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -92,3 +113,4 @@ const ElColof = {
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoffuksmann@gmail.com)
 
 </div>
+```
