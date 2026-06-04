@@ -88,6 +88,23 @@ const ElColof = {
 </p>
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+<h3>🌊 <a href="https://github.com/HugoFucksmann/OceanicLabCreator">OceanicLabCreator</a></h3>
+<p>Plataforma local-first de generación y edición multimedia asíncrona con IA. Diseñada para minimizar costos de red y cómputo realizando procesamiento pesado directamente en el navegador (FFmpeg/WASM para recortar video y eliminar fondos) y persistiendo los archivos multimedia en caché offline (IndexedDB).</p>
+<pre>
+[React SPA / Dexie] ──► [api-service] ──► [Google Cloud Tasks] ──► [worker-service] ──► [GCS / Supabase]
+</pre>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+<img src="https://img.shields.io/badge/Dexie.js-Local--First-5C6BC0?style=flat&logo=databricks&logoColor=white" alt="Dexie" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+</td>
+</tr>
 </table>
 
 ---
