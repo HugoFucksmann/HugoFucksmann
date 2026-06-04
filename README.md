@@ -67,7 +67,7 @@ const ElColof = {
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td bgcolor="#e6f2ff" width="50%" valign="top">
 <h3>♟️ <a href="https://github.com/HugoFucksmann/tableroAnalisis">tableroAnalisis</a></h3>
 <p>Aplicación interactiva para la visualización de datos, generación de reportes y análisis de métricas de ajedrez en tiempo real.</p>
 <br />
@@ -77,7 +77,7 @@ const ElColof = {
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 </td>
-<td width="50%" valign="top">
+<td bgcolor="#e6f2ff" width="50%" valign="top">
 <h3>⚙️ <a href="https://github.com/HugoFucksmann/backendTablero">backendTablero</a></h3>
 <p>API por WebSockets que integra el engine Stockfish, gestiona la persistencia de datos, clasifica movimientos y extrae puzzles tácticos.</p>
 <br />
@@ -89,7 +89,7 @@ const ElColof = {
 </td>
 </tr>
 <tr>
-<td colspan="2" width="100%" valign="top">
+<td bgcolor="#e6f2ff" colspan="2" width="100%" valign="top">
 <h3>🌊 <a href="https://github.com/HugoFucksmann/OceanicLabCreator">OceanicLabCreator</a></h3>
 <p>Plataforma local-first de generación y edición multimedia asíncrona con IA. Diseñada para minimizar costos de red y cómputo realizando procesamiento pesado directamente en el navegador (FFmpeg/WASM para recortar video y eliminar fondos) y persistiendo los archivos multimedia en caché offline (IndexedDB).</p>
 <pre>
