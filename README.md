@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=180&section=header&text=Hugo%20Fucksmann&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer&descColor=94A3B8&descSize=18&descAlignY=60" alt="Hugo Fucksmann – Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=180&section=header&text=Hugo%20Fucksmann&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descColor=94A3B8&descSize=20&descAlignY=60" alt="Hugo Fucksmann – Senior Full-Stack Developer" width="100%" />
 
 <p>
   React · Node.js · TypeScript &nbsp;|&nbsp; Santa Fe, Argentina
@@ -18,12 +18,12 @@
 
 ## About
 
-I'm a Full-Stack Developer based in Santa Fe, Argentina. I build web applications with modern JavaScript technologies, from interactive frontends to backend services and cloud workers, with a focus on **maintainability**, **performance** and **practical problem-solving**.
+I'm a Senior Full-Stack Developer based in Santa Fe, Argentina. I design and build web applications end to end, from interactive frontends to backend services and cloud workers, with a focus on **maintainability**, **performance** and **practical problem-solving**.
 
-- 🔭 Designing end-to-end solutions with React, Node.js and TypeScript
-- ☁️ Working with queues, workers and serverless infrastructure on Google Cloud
+- 🔭 Architecting end-to-end solutions with React, Node.js and TypeScript
+- ☁️ Building asynchronous pipelines with queues, workers and serverless infrastructure on Google Cloud
 - 🤖 Exploring AI-powered tooling and local-first architectures
-- ♟️ Chess player: it shows up in my projects too
+- ♟️ Chess enthusiast, which inspired some of my projects below
 
 ---
 
